@@ -1,2 +1,16 @@
-
+body{
+  background: lightgrey;
+  color: white;
+  direction: ltr;line-height: 1.34;
+  margin: 0%;padding: 0%;
+  border-radius: 0%;
 }
+body,button,input,select,select,textarea {
+font-size: 40px;
+}
+body{
+  
+}
+border-image: :left
+
+
