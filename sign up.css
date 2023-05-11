@@ -1,0 +1,15 @@
+
+container {
+  position: absolute;
+  top: 30%;
+  left: 14%;
+  font-size: 25px;
+}
+  header {
+  width: 350px;
+  height: 350px;
+  top: 20%;
+  left: 57%;
+  font-size: 20px;
+}
+
