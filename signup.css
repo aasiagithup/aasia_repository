@@ -1,7 +1,7 @@
 
-container {
+.container {
   position: absolute;
-  top: 30%;
+  top: 10%;
   left: 14%;
   font-size: 25px;
 }
