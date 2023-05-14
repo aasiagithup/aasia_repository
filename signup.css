@@ -1,4 +1,8 @@
 .custombtn{
-  border-color: black;
+  border-radius:0 ;
+  border-color:lightblue;
+}
+.custombtnsignup{
+  width:30%;
 }
 
