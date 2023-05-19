@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding:0;
+}
+.container{
+  position:absolute;
+  top: 30%;
+  left: 14%;
+  font-size: 25px;
+}
+body{
+  background-color: #f0f2f5;
+}
+.container h1{
+  color: #2c83f2;
+
+}
+
+
+
+
