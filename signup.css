@@ -1,7 +1,13 @@
-.custombtn{
-  border-radius:0 ;
-  border-color:lightblue;
-}
+
+  .custombutton{
+    background-color: #36a420;
+    text-align: center;
+    }
+    
+
+  
+
+
 .custombtnsignup{
   width:30%;
 }
