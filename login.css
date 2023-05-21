@@ -17,11 +17,22 @@ body{
   font-size:60px ;
 
 }
+.container{
+font-size:20px;
+font-weight: bold;
+}
 .custombutton{
 background-color: #36a420;
 }
 .createbtn{
   font-size: small;
+}
+.loginbox{
+  padding-top:15px;
+  padding-bottom:15px ;
+  height:200px ;
+  
+
 }
 
 
